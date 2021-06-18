@@ -12,6 +12,8 @@ If you wish to say something, feel free to [contact me][where].
 
 Have a good day! 🌅
 
+![#ShowYourStripes](https://ashwinvis.github.io/media/videos/stripes.mp4)
+
 [site]:   https://ashwinvis.github.io
 [blog]:   https://ashwinvis.github.io/archives
 [where]:  https://ashwinvis.github.io/pages/contact.html
