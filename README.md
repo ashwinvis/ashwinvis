@@ -6,6 +6,11 @@ Thanks for stopping by. Apart from codes on GitHub and elsewhere, I have:
 - a [planet page][planet], and
 - a showcase of [what I do][what].
 
+<link rel="me" href="https://mastodon.acc.sunet.se/@ashwinvis">
+<link rel="me" href="https://fediscience.org/@ashwinvis">
+<link rel="me" href="https://pixelfed.social/ashwinvis">
+<link rel="me" href="https://tube.tchncs.de/a/ashwinvis/video-channels">
+
 The pinned repositories below are just a selection of every project I created or co-maintain.
 The complete listing are bookmarked as my [starred repositories][star] and curated in my [showcase][what].
 If you wish to say something, feel free to [contact me][where].
