@@ -3,11 +3,11 @@
 Thanks for stopping by. Apart from codes on GitHub and elsewhere, I have:
 
 - a little [website][site] where I blog about [science, technology and random musings][blog].
-- a [planet page][planet], and
-- a showcase of [what I do][what].
+- a [planet page][planet],
+- a showcase of [what I do][what],
+- a <a rel="me" href="https://mastodon.acc.sunet.se/@ashwinvis">Mastodon for personal / tech musings</a>, and
+- a <a rel="me" href="https://fediscience.org/@ashwinvis">Mastodon for science</a>.
 
-<link rel="me" href="https://mastodon.acc.sunet.se/@ashwinvis">
-<link rel="me" href="https://fediscience.org/@ashwinvis">
 <link rel="me" href="https://pixelfed.social/ashwinvis">
 <link rel="me" href="https://tube.tchncs.de/a/ashwinvis/video-channels">
 
